@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Solly!
-- 👀 I’m interested in building web applications
 - 📫 How to reach me - https://solomonrachamim.com/
 
 <!---
