@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Solly!
 - 👀 I’m interested in building web applications
-- 🌱 I’m currently learning Front End Frameworks to develop web applications for CRM software
 - 📫 How to reach me - https://solomonrachamim.com/
 
 <!---
